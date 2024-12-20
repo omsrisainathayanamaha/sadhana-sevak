@@ -5,3 +5,8 @@ This is a project that aims to give advice to people based on Swami Chinmayanand
 These are the Karma Yoga chapters that govern how a man of wisdom should perform actions.
 
 The model is pretrained with these chapters, and I hope it helps some people make new and better decisions!
+
+Dependencies:
+pinecone
+numpy
+sentence_transformers
