@@ -1,0 +1,7 @@
+PINECONE_API_KEY = 'pcsk_cnshE_TjUnH9szDsLHC3ghUVaguXQYfzyCAGom2NCi3EjVrubsTqAZKVr4sZ9GGuPj4kp'
+PINECONE_INDEX_NAME = 'bhagavad-gita-commentary-test'
+PINECONE_ENVIRONMENT = 'us-east-1'
+PINECONE_DIMENSION = 1024
+MISTRAL_API_KEY = '1SILoxxTa1KjnsWCQtB3V9gTnXU2AFTh'
+MISTRAL_MODEL =  "mistral-large-latest"
+SENTENCE_TRANSFORMER_MODEL = 'paraphrase-MiniLM-L6-v2'
